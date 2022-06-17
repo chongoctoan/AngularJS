@@ -1,0 +1,137 @@
+{
+  "data": {
+    "categories": [
+      {
+        "name": "Margaret",
+        "childs": [
+          {
+            "title": "Title",
+            "des": "Sale Repsentive"
+          },
+          {
+            "name": "Hire Date",
+            "des": "10/5/1996"
+          },
+          {
+            "name": "Address",
+            "des": "7 Round"
+          },
+          {
+            "name": "City",
+            "des": "London"
+          },
+          {
+            "name": "Phone",
+            "des": "88888888"
+          }
+
+        ]
+      },
+      {
+        "name": "Laura",
+        "childs": [
+          {
+            "title": "Title",
+            "des": "Sale Repsentive"
+          },
+          {
+            "name": "Hire Date",
+            "des": "10/5/1996"
+          },
+          {
+            "name": "Address",
+            "des": "7 Round"
+          },
+          {
+            "name": "City",
+            "des": "London"
+          },
+          {
+            "name": "Phone",
+            "des": "88888888"
+          }
+
+        ]
+      },
+      {
+        "name": "Margaret",
+        "childs": [
+          {
+            "title": "Title",
+            "des": "Sale Repsentive"
+          },
+          {
+            "name": "Hire Date",
+            "des": "10/5/1996"
+          },
+          {
+            "name": "Address",
+            "des": "7 Round"
+          },
+          {
+            "name": "City",
+            "des": "London"
+          },
+          {
+            "name": "Phone",
+            "des": "88888888"
+          }
+
+        ]
+      },
+      {
+        "name": "Margaret",
+        "childs": [
+          {
+            "title": "Title",
+            "des": "Sale Repsentive"
+          },
+          {
+            "name": "Hire Date",
+            "des": "10/5/1996"
+          },
+          {
+            "name": "Address",
+            "des": "7 Round"
+          },
+          {
+            "name": "City",
+            "des": "London"
+          },
+          {
+            "name": "Phone",
+            "des": "88888888"
+          }
+
+        ]
+      },
+      {
+        "name": "Margaret",
+        "childs": [
+          {
+            "title": "Title",
+            "des": "Sale Repsentive"
+          },
+          {
+            "name": "Hire Date",
+            "des": "10/5/1996"
+          },
+          {
+            "name": "Address",
+            "des": "7 Round"
+          },
+          {
+            "name": "City",
+            "des": "London"
+          },
+          {
+            "name": "Phone",
+            "des": "88888888"
+          }
+
+        ]
+      }
+    ]
+
+  }
+}

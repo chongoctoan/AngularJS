@@ -12,6 +12,7 @@ import {FormsModule} from "@angular/forms";
 import {Route, RouterModule} from "@angular/router";
 import {Assignment1Component} from "./assigment1/assigment1.component";
 import {Assigment2Component} from "./assigment2/assigment2.component";
+import {BaithiComponent} from "./baithithuchanh/baithi.component";
 
 const appRoutes: Route[] = [
   {
@@ -32,7 +33,9 @@ const appRoutes: Route[] = [
     ProductsComponent,ProductComponent,
     WeatherComponent,
     Assignment1Component,
-    Assigment2Component
+    Assigment2Component,
+    BaithiComponent
+
 
   ],
   imports: [
