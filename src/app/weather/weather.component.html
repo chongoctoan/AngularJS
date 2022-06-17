@@ -1,0 +1,18 @@
+<!--<button type="button" (click)="hanoi()">Ha noi</button>-->
+<!--<button type="button" (click)="london()">London</button>-->
+<!--<button type="button" (click)="saigon()">Saigon</button>-->
+<!--<button type="button" (click)="paris()">Paris</button>-->
+<form (submit)="getData()">
+  <input type="text" name="cityCode" [(ngModel)]="cityCode"/>
+  <button type="submit">Check Weather</button>
+</form>
+<h3>{{cityCode}}</h3>
+<div *ngIf="data">
+  <h2>Thanh pho {{data.name}}, {{data.sys.country}}</h2>
+  <h3>NHiet Do: {{data.main.temp}}<sup>o</sup></h3>
+  <h3>Do Am: {{data.main.humidity}}%</h3>
+  <h3>Toc Do gio: {{data.wind.speed}}km/h </h3>
+  <p>{{data.weather[0].description}}</p>
+  <img style="transform: translate(150px,-200px)"
+       src="http://openweathermap.org/img/wn/{{data.weather[0].icon}}@2x.png"/>
+</div>

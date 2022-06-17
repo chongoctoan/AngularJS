@@ -1,0 +1,9 @@
+<h2>{{className}}</h2>
+<button type="button" (click)="changeName()">Change</button>
+<h3>Danh sach sinh vien</h3>
+<app-student *ngFor="let s of studentNames ;let i = index;"
+  [studentName]="studentNames[i]"
+  [studentAge]="studentAge[i]"
+  [studentPhone]="studentPhone[i]">
+
+</app-student>
